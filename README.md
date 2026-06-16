@@ -29,7 +29,5 @@ A text generation application built using TensorFlow and LSTM networks.
 ```bash
 pip install -r requirements.txt
 python app.py
- ## Generated Quote
-<img width="893" height="515" alt="image" src="https://github.com/user-attachments/assets/738e53f4-5f29-4cf8-9506-b99d98962229" />
 
 
